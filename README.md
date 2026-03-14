@@ -39,3 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # AI-generator
 AI Study Topic Explainer built with Next.js, Tailwind CSS and Groq API. Students can enter a topic and get a simple AI-generated explanation.
 >>>>>>> 005fc6c9c4861be0c2447f2f4676755d08deac9d
+
+Project Documentation:  
+[Download Word Document](AI_Study_Topic_Explainer_Project_Documentation.docx)
+
